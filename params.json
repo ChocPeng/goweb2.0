@@ -1,0 +1,6 @@
+{
+  "name": "Goweb2.0",
+  "tagline": "my thinking process about UI,UE",
+  "body": "今天主要是修改个人系统。\r\n\r\n登录后的个人空间在非操作阶段以drop down形式隐藏在toolbar里。\r\n![](/Users/PepC/Desktop/4901605244540096463.jpg)\r\nhover到头像处即可出现。\r\n\r\n“播放记录”“个人收藏”“系统设置”和“讯息”是用户使用率较多的行为，在toolbar里设置快捷通道比较合理。\r\n\r\n\r\n\r\n点击drop down里的内容进入个人页面后，出现个问题：个人主页是仅用户可见还是可以开放给所有用户？后者需要隐藏起“个人信息和设置”（包括消费信息等），前者则可以在一个页面中“随意”呈现。\r\n\r\n考虑到现在的版本是测试版，没有广场版块和新闻版块等等，社交功能聊胜于无，应该是偏向于“仅用户可见”，不过依然要为日后的开放做准备。所以我使用了和“棋手主页”同源的处理方式。\r\n![](/Users/PepC/Desktop/5.pic_hd.jpg)\r\n![](/Users/PepC/Desktop/6.pic_hd.jpg)",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
